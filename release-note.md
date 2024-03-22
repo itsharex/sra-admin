@@ -1,6 +1,12 @@
 ### 更新日志
 
 
+#### v1.4.2
+1. 修复test接口未放行问题
+2. JSON日期格式改成DatePattern.NORM_DATETIME_PATTERN
+3. 启动jar名去掉版本号，优化sh执行脚本
+
+
 #### v1.4.1
 1. 优化：List空集合判断代码使用isEmpty
 
